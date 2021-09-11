@@ -1,1 +1,1 @@
-# Tutorial-pr-tico-de-Deep-Learning-com-Pytorch
+# Tutorial prático de Deep Learning com Pytorch
